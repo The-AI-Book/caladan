@@ -8,6 +8,10 @@ The second module is designed to provide a means of quickly and easily previewin
 
 The third module is designed to provide a means of compressing images by up to 90%. This is done by reducing the size of the image while still maintaining the quality and pixel size.
 
+## Architecture
+
+<img src = "./img/architecture.png">
+
 ## Usage
 
 Challange #1: Check file utils.py
