@@ -10,7 +10,7 @@ The third module is designed to provide a means of compressing images by up to 9
 
 ## Architecture
 
-<img src = "./img/architecture.png">
+<img src = "./imgs/architecture.png">
 
 ## Usage
 
